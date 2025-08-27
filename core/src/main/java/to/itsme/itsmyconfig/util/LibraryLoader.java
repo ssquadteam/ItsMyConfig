@@ -48,8 +48,8 @@ public enum LibraryLoader {
     PACKET_EVENTS(
             "com{}github{}retrooper",
             "packetevents-spigot",
-            "2.9.4",
-            "https://jitpack.io",
+            "2.9.5",
+            "https://repo.codemc.io/repository/maven-releases/",
             () -> true,
             new Relocation(
                     String.join(".", "com", "github", "retrooper", "packetevents"),

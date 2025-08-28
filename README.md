@@ -1,4 +1,4 @@
-# ItsMyConfig ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5+-blue.svg) ![Plugin Version](https://img.shields.io/badge/version-4.1.0-green.svg)
+# ItsMyConfig ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5+-blue.svg) ![Plugin Version](https://img.shields.io/badge/version-4.2.0-green.svg)
 
 Welcome to the official GitHub repository for the ItsMyConfig plugin! This plugin is designed to enhance your Minecraft server configuration, offering extensive support for MiniMessage, PlaceholderAPI, and Custom Tags across any message within your plugins.
 
@@ -33,13 +33,13 @@ Here are a few examples of how you can use ItsMyConfig to enrich your server's m
 - **Sounds:** Trigger sounds associated with specific events or actions.
 - **Custom Progress Bars:** Utilize custom symbols and colors for progress tracking.
 
-For more detailed examples, please refer to the [Usage Documentation](https://docs.itsme.to/itsmyconfig).
+For more detailed examples, please refer to the [Usage Documentation](https://docs.itsmy.studio/itsmyconfig).
 
 ## :handshake: Support and Contribution
 
 For support, suggestions, or feature requests, visit our support channel:
 
-[Get Support](https://itsme.to/discord)
+[Get Support](https://itsmy.studio/discord)
 
 Interested in contributing? We welcome contributions of all forms. Please feel free to fork the repository, make changes, and submit a pull request. Your contributions help make ItsMyConfig even better!
 

@@ -107,6 +107,7 @@ shadowJar {
     relocate("net.kyori", "${shadePath}kyori")
     relocate("com.alessiodp.libby", "${shadePath}libby")
     relocate("com.github.retrooper.packetevents", "${shadePath}packetevents")
+	relocate("io.github.retrooper.packetevents", "${shadePath}iopacketevents")
     archiveFileName = "itsmyconfig-${project.version}.jar"
 }
 

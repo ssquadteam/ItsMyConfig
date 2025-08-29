@@ -56,6 +56,10 @@ public enum LibraryLoader {
                     BuildParameters.SHADE_PATH + "packetevents"
             ),
             new Relocation(
+                    String.join(".", "io", "github", "retrooper", "packetevents"),
+                    BuildParameters.SHADE_PATH + "iopacketevents"
+            ),
+            new Relocation(
                     String.join(".", "net", "kyori"),
                     BuildParameters.SHADE_PATH + "kyori"
             )
